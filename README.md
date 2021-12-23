@@ -43,5 +43,5 @@ Covin은 최종적으로 코로나 검사를 받기까지 모든것을 자동화
 <img src="https://user-images.githubusercontent.com/80076029/146697250-de61f2c2-cfce-4e13-8b9e-a9df2530f354.png" width="180px" height="380px"></img>
 
 ## License
-MCSS is released under the MIT License. http://www.opensource.org/licenses/mit-license
+Covin is released under the MIT License. http://www.opensource.org/licenses/mit-license
 
